@@ -1,0 +1,5 @@
+{
+  "testEnvironment": "node",
+  "globalSetup": "<rootDir>/src/test/globalSetup.js",
+  "setupFilesAfterEnv": ["<rootDir>/src/test/setupFilesAfterEnv.js"]
+}
